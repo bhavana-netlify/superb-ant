@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "Hi, I’m\_ Bhavana. I help teams build scalable web applications."
+    title: "Hi, I’m\_ Bhavana. I help teams build scalable web applications!"
     subtitle: I am a Sr. Solutions Engineer at Netlify.
     actions:
       - label: Contact Me
